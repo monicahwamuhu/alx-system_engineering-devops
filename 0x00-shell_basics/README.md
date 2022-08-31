@@ -8,4 +8,5 @@ mkdir creates directories
 mv is used to move files
 rm is used to delete files
 rm -r used to delete directories permanently
+cd - changes wd to previous one
 
