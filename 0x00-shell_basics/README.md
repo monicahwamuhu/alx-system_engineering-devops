@@ -7,4 +7,5 @@ ls -g lists all files in long format with user and group IDs displayed numerical
 mkdir creates directories
 mv is used to move files
 rm is used to delete files
+rm -r used to delete directories permanently
 
