@@ -6,4 +6,5 @@ ls -a lists all files including the hidden ones
 ls -g lists all files in long format with user and group IDs displayed numericalmkdir creates a directory
 mkdir creates directories
 mv is used to move files
+rm is used to delete files
 
