@@ -9,4 +9,5 @@ mv is used to move files
 rm is used to delete files
 rm -r used to delete directories permanently
 cd - changes wd to previous one
+ls -al . .. list all files in the dir and parent wd and boot dir in long format
 
